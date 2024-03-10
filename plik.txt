@@ -1,0 +1,1 @@
+Konfiguracja maila. Podobnie jak wyżej. Dlaczego od tego zaczynam, bo zawsze po jakiś czasie się okazywało, że mam albo nie prawidłowy (nie firmowy) mail i gdzieś tam w systemach się potem wyświetlało, że jest jakiś inny Przemek. Często jak commituje z domu to mam domowego maila podłączonego
